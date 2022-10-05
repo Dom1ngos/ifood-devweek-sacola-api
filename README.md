@@ -1,5 +1,5 @@
 <h1>Sacola API</h1>
-<p>Sacola API para servir uma aplicação com domínio de delivery, foi desenvolvida a partir de uma DevWeek da DIO com o iFood.</p>
+<p>Entre os dias 26/09 e 29/09 do ano de 2022 ocorreu o iFood DevWeek. Foi uma semana de ensino da DIO em parceria com o iFood para construção de uma API Rest. Teve como enfoque o desenvolvimento de uma sacola/carrinho onde o usuário poderia inserir itens e no final realizar o pagamento com as formas disponibilizadas. Adquiri experiência para comprovar meus conhecimentos com API Rest e aprendi a respeito do Swagger.</p>
 
 <h3>Status do Projeto</h3>
 <p align="center"> Sacola API 💻 <b>CONCLUÍDA<b> </p>
